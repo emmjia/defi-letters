@@ -31,9 +31,9 @@ os.makedirs(folder_name, exist_ok=True)
 #Make sure to have "data_combined.csv" and "defi_letter.docx"
 data_combined = "/content/data_combined.csv"
 list = [
-1582224,
-1615311,
-1619224]
+1582254,
+1615341,
+1619284]
 
 while True:
   for file_name in list:
@@ -49,15 +49,15 @@ c_df1 = pd.read_csv('/content/balances.csv', header = None).fillna(0)
 accounts_amounts = {}
 
 accounts = [
-17329150002,
-17372670003,
-17379090002
+17329550002,
+17372570003,
+17379590002
 ]
 
 amounts = [
- 21594.01,
- 7000.00,
- 13602.65
+ 21094.01,
+ 7100.00,
+ 13002.65
 ]
 
 for i in range(len(accounts)):
