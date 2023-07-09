@@ -9,4 +9,4 @@ task_batcher.py is the centralize location to run the defilettersii.py in a whil
 
 The results are word documents with clients name, account information, and explanation of surplus.
 
-For privacy reasons I have only provided a screenshot of the arithmatic portion of the results defi_letter_git.pdf
+For privacy reasons I have only provided a screenshot of the arithmatic portion of the results defi_letter_git.pdf. It is a before and after.
