@@ -1,7 +1,7 @@
 # defi-letters
-The deficiency letter is a letter we send out to our clients who have a surplus of overpaid funds from a auctions transaction.
+The deficiency letter is a letter we send out to our clients who have a surplus of overpaid funds from an auctions transaction.
 
-The SQL Querey collects the desired data from a list that the user provides to it
+The SQL Querey collects the desired data from a list that the user provides to it.
 
 The following code defilettersii.py takes that data, does the arithmatic of the total sale and sale fees minus remaining principle, interest, and account outstanding fees.
 
